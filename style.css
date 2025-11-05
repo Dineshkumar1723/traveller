@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: blue;
+    padding: 30px;
+    
+}
+.container.navbar-brand.d-flex.justify-content-between.align-items-center h2{
+    font-size: 20px;
+}
+.navbar-nav .nav-items .nav-link{
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+.nvbar-toggler{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.navbar-nav.ms-auto a:hover{
+    color: aqua;
+    font-weight: bolder;
+
+}
+.container-fluid.container-fluid.text-md-center{
+    color: white;
+    background-color: blue;
+    height: -30px;
+}
+.first{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.second{
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+.bg-secondary{
+    
+    width: 100%;
+    height: 800px;
+}
+.body{
+    background-image: url(photo-1499678329028-101435549a4e.avif);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+    
+}
+.form-group{
+    color: white;
+}
+.first-heading{
+    text-align: center;
+    font-size: large;
+    margin-top: 20px;
+}
+.container{
+    margin-top: 50px;
+}
+.second-content{
+    margin-top: 20px;
+    text-align: center;
+    font-size: large;
+}
